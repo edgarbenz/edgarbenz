@@ -1,4 +1,6 @@
-## Hello! My name is Edgar Benzor, I have 4 years of experience as a Full Stack Web Developer (Javascript, React.js , Node.js)
+## Hello! My name is Edgar Benzor , I'm Computer Science Engineer, I'm from México
+I have 4 years of experience as a Full Stack Web Developer (Javascript, React.js , Node.js)
+
 
 ---
 
